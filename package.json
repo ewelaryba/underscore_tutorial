@@ -1,0 +1,16 @@
+{
+  "name": "underscore-tutorial",
+  "description": "",
+  "version": "0.0.0",
+  "main": "underscore-tutorial.js",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha --no-colors --reporter spec"
+  },
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
